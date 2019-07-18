@@ -1,15 +1,18 @@
-<<<<<<< HEAD
-# Vue-Belajar
-vue playground
-=======
-# movie-vue
 
-## Project setup
+# Vue-Belajar
+
+Included
+
+```
+Vuetify, Vue-Router
+```
+
+## Install
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Jalankan Project
 ```
 yarn run serve
 ```
@@ -31,4 +34,4 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> init
+
